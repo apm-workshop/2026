@@ -1,0 +1,24 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      
+      <div class="footer-col">
+        <p>
+          {%- if site.author.name -%}
+            <strong>{{ site.author.name | escape }}</strong><br>
+          {%- endif -%}
+          {{ site.description | escape }}
+        </p>
+      </div>
+
+      <div class="footer-col footer-links-horizontal">
+        {%- for my_page in site.pages -%}
+          {%- if my_page.footer == true -%}
+            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>&nbsp;&nbsp;
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+
+    </div>
+  </div>
+</footer>
