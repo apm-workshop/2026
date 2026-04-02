@@ -5,7 +5,7 @@ permalink: /programme/
 footer: false
 ---
 
-Below, you find the planned schedule. A more detailed schedule will be made available once the talk registration has closed.
+Below, you find the planned schedule (times are preliminary). A more detailed schedule will be made available once the talk registration has closed.
 
 <table>
 <colgroup>
@@ -15,13 +15,13 @@ Below, you find the planned schedule. A more detailed schedule will be made avai
 <col width="22%" />
 <col width="22%" />
 </colgroup>
-<thead>
+<thead align="center">
 <tr class="header">
 <th></th>
-<th>Tuesday, 6th</th>
-<th>Wednesday, 7th</th>
-<th>Thursday, 8th</th>
-<th>Friday, 9th</th>
+<th>Tuesday<br/> 6th Oct</th>
+<th>Wednesday<br/> 7th Oct</th>
+<th>Thursday<br/> 8th Oct</th>
+<th>Friday<br/> 9th Oct</th>
 </tr>
 </thead>
 <tbody>

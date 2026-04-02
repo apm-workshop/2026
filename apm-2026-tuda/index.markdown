@@ -28,7 +28,7 @@ Room 18 and 96 <br>
 
 # Registration 
 
-Information about the registration is to be announced.
+Information about the registration will be announced soon.
 
 # Programme (Preliminary)
 
