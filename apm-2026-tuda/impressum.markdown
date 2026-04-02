@@ -9,10 +9,10 @@ footer: true
 ## Angaben gemäß § 5 TMG
 
 **Anbieter:**  
-Software Engineering Group
-Technische Universität Darmstadt
-Hochschulstraße 10
-64289 Darmstadt
+Software Engineering Group<br>
+Technische Universität Darmstadt<br>
+Hochschulstraße 10<br>
+64289 Darmstadt<br>
   
 **Kontakt:**  
 Telefon: +49 (0) 6151 / 16-22364

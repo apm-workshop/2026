@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+    # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -21,7 +21,7 @@
 title: APM 2026 @ TU Darmstadt
 email: apm-2026@se.tu-darmstadt.de
 description: Website for the APM 2026 Autumn Edition
-baseurl: "/2026" # the subpath of your site, e.g. /blog
+baseurl: "/2026/" # the subpath of your site, e.g. /blog
 url: "https://apm-workshop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
 $github_username:  jekyll
