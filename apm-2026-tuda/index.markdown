@@ -4,7 +4,11 @@
 
 layout: home
 ---
-![TU Darmstadt/Jannik Hoffmann](/2026/assets/images/Schloss_Aussen_Innen.jpg){: width="100%" }
+
+<figure>
+  <img src="{{site.url}}/2026/assets/images/Schloss_Aussen_Innen.jpg" alt="Picture of the castle"/>
+  <figcaption align="right">(c) TU Darmstadt/Jannik Hoffmann</figcaption>
+</figure>
 
 # Welcome
 
