@@ -24,7 +24,9 @@ description: Website for the APM 2026 Autumn Edition
 baseurl: "/2026" # the subpath of your site, e.g. /blog
 url: "https://apm-workshop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
-$github_username:  jekyll
+#$github_username:  jekyll
+repository: apm-workshop/2026
+copyright: "APM 2026"
 
 # Build settings
 theme: minima
