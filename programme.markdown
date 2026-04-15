@@ -26,28 +26,21 @@ Below, you find the planned schedule (times are preliminary). A more detailed sc
 </thead>
 <tbody>
 <tr>
-<td markdown="span">9:00 - 10:30 </td>
+<td markdown="span">10:00 - 10:30 </td>
+<td markdown="span"></td>
+<td markdown="span">Coffee</td>
+<td markdown="span">Coffee</td>
+<td markdown="span">Coffee</td>
+</tr>
+<tr>
+<td markdown="span">10:30 - 12:00 </td>
 <td markdown="span"></td>
 <td markdown="span">*Talks*</td>
 <td markdown="span">*Talks*</td>
 <td markdown="span">*Talks*</td>
 </tr>
 <tr>
-<td markdown="span">10:30 - 11:00 </td>
-<td markdown="span"></td>
-<td markdown="span">**Break**</td>
-<td markdown="span">**Break**</td>
-<td markdown="span">**Break**</td>
-</tr>
-<tr>
-<td markdown="span">11:00 - 12:30 </td>
-<td markdown="span"></td>
-<td markdown="span">*Talks*</td>
-<td markdown="span">*Talks*</td>
-<td markdown="span">*Talks*</td>
-</tr>
-<tr>
-<td markdown="span">12:30 - 13:30 </td>
+<td markdown="span">12:00 - 13:30 </td>
 <td markdown="span"> </td>
 <td markdown="span">**Lunch Buffet**</td>
 <td markdown="span">**Lunch Buffet**</td>
