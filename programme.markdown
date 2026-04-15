@@ -9,15 +9,15 @@ Below, you find the planned schedule (times are preliminary). A more detailed sc
 
 <table>
 <colgroup>
-<col width="10%" />
-<col width="22%" />
-<col width="22%" />
-<col width="22%" />
-<col width="22%" />
+<col width="17%" />
+<col width="18%" />
+<col width="18%" />
+<col width="18%" />
+<col width="18%" />
 </colgroup>
 <thead align="center">
 <tr class="header">
-<th></th>
+<th>Time/Day</th>
 <th>Tuesday<br/> 6th Oct</th>
 <th>Wednesday<br/> 7th Oct</th>
 <th>Thursday<br/> 8th Oct</th>
@@ -28,9 +28,9 @@ Below, you find the planned schedule (times are preliminary). A more detailed sc
 <tr>
 <td markdown="span">10:00 - 10:30 </td>
 <td markdown="span"></td>
-<td markdown="span">Coffee</td>
-<td markdown="span">Coffee</td>
-<td markdown="span">Coffee</td>
+<td markdown="span">**Coffee**</td>
+<td markdown="span">**Coffee**</td>
+<td markdown="span">**Coffee**</td>
 </tr>
 <tr>
 <td markdown="span">10:30 - 12:00 </td>
