@@ -19,6 +19,8 @@ The APM Workshop is a venue for the discussion of asynchronous programming patte
 
 The APM workshop stands in the tradition of the ABS workshop, whose last iteration took place in Turin, Italy, but is not specific to any language or paradigm.
 
+In the spirit of APM workshops there will be some culinary and wine highlights. The reception will take place at [Calida](https://www.schmiedl-calida.de), a stylish kitchen showroom. The dinner is planned at [Ferrucci Wine Bar](http://ferrucci-winebar.de).
+
 # Venue
 
 The workshop takes place at
