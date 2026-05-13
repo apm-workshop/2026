@@ -33,42 +33,42 @@ Below, you find the planned schedule (times are preliminary). A more detailed sc
 <td markdown="span">**Coffee**</td>
 </tr>
 <tr>
-<td markdown="span">10:30 - 12:00 </td>
+<td markdown="span">10:30 - 12:30 </td>
 <td markdown="span"></td>
 <td markdown="span">*Talks*</td>
 <td markdown="span">*Talks*</td>
 <td markdown="span">*Talks*</td>
 </tr>
 <tr>
-<td markdown="span">12:00 - 13:30 </td>
+<td markdown="span">12:30 - 14:00 </td>
 <td markdown="span"> </td>
-<td markdown="span">**Lunch Buffet**</td>
-<td markdown="span">**Lunch Buffet**</td>
-<td markdown="span">**Lunch Buffet**</td>
+<td markdown="span">**Lunch**</td>
+<td markdown="span">**Lunch**</td>
+<td markdown="span">**Lunch**</td>
 </tr>
 <tr>
-<td markdown="span">13:30 - 15:00 </td>
+<td markdown="span">14:00 - 15:30 </td>
 <td markdown="span"></td>
 <td markdown="span">*Talks*</td>
 <td markdown="span">*Talks*</td>
 </tr>
 <tr>
-<td markdown="span">15:00 - 15:30 </td>
+<td markdown="span">15:30 - 16:00 </td>
 <td markdown="span"></td>
 <td markdown="span">**Break**</td>
 <td markdown="span">**Break**</td>
 </tr>
 <tr>
-<td markdown="span">15:30 - 17:00 </td>
+<td markdown="span">16:00 - 17:30 </td>
 <td markdown="span"></td>
 <td markdown="span">*Talks*</td>
 <td markdown="span">*Talks*</td>
 </tr>
 <tr>
 <td markdown="span">Evening         </td>
-<td markdown="span">**Reception**    </td>
+<td markdown="span">**Reception** at 18:00    </td>
 <td markdown="span">                </td>
-<td markdown="span">**Workshop Dinner** </td>
+<td markdown="span">**Workshop Dinner** at 19:00</td>
 </tr>
 </tbody>
 </table>
