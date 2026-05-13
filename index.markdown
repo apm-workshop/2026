@@ -32,7 +32,9 @@ Room 18 and 96 <br>
 
 # Registration 
 
-Information about the registration will be announced soon.
+Please register your **attendance** [here](https://owncloud.se.informatik.tu-darmstadt.de/owncloud/index.php/apps/forms/s/QKtjcFJgGAidGWzCr3e3nMrj)
+
+Please register your **talk** [here](https://owncloud.se.informatik.tu-darmstadt.de/owncloud/index.php/apps/forms/s/HpRd4EAyCnYixALnyg9SNo6i)
 
 # Programme (Preliminary)
 
