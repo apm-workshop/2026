@@ -34,9 +34,9 @@ Room 18 and 96 <br>
 
 # Registration 
 
-Please register your **attendance** [here](https://owncloud.se.informatik.tu-darmstadt.de/owncloud/index.php/apps/forms/s/QKtjcFJgGAidGWzCr3e3nMrj)
+Please register your **attendance** [here](https://owncloud.se.informatik.tu-darmstadt.de/owncloud/index.php/apps/forms/s/QKtjcFJgGAidGWzCr3e3nMrj) until **31. July 2026**
 
-Please register your **talk** [here](https://owncloud.se.informatik.tu-darmstadt.de/owncloud/index.php/apps/forms/s/HpRd4EAyCnYixALnyg9SNo6i)
+Please register your **talk** [here](https://owncloud.se.informatik.tu-darmstadt.de/owncloud/index.php/apps/forms/s/HpRd4EAyCnYixALnyg9SNo6i) until **31. August 2026**
 
 # Programme (Preliminary)
 
