@@ -38,9 +38,9 @@ Please register your **attendance** [here](https://owncloud.se.informatik.tu-dar
 
 Please register your **talk** [here](https://owncloud.se.informatik.tu-darmstadt.de/owncloud/index.php/apps/forms/s/HpRd4EAyCnYixALnyg9SNo6i) until **31. August 2026**
 
-# Programme (Preliminary)
+# Programme
 
-A preliminary schedule outline is available [here](./programme)
+The **preliminary** schedule is available [here](./programme)
 
 # Contact
 If there are any inquiries or questions, feel free to contact the organizers:
