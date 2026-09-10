@@ -117,7 +117,7 @@ Below, you find the preliminary schedule. Talks and times may still change.
 <tr>
 <td class="time" markdown="span">12:00 - 12:45</td>
 <td markdown="span"></td>
-<td class="talk" markdown="span">**Niklas Heidler**Specifying and Verifying with Trace Formulas</td>
+<td class="talk" markdown="span">**Niklas Heidler**Characterising and Verifying Active Object Programs with Trace Logic</td>
 <td class="talk" markdown="span">**Cosimo Laneve**The Stipula Experience</td>
 <td class="talk" markdown="span">**Violet Ka I Pun**Type-based information flow analysis for actors</td>
 </tr>
