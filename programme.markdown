@@ -181,7 +181,7 @@ Below, you find the preliminary schedule. Talks and times may still change.
 <td class="time" markdown="span">Evening</td>
 <td class="talk" markdown="span">**Reception**18:00<br/>[Vinoteca Carroccia](https://www.facebook.com/people/Vinoteca-Carroccia/100090145849713/)</td>
 <td markdown="span"></td>
-<td class="talk" markdown="span">**Workshop Dinner**19:00<br/>[Ferrucci Wine Bar](http://ferrucci-winebar.de)</td>
+<td class="talk" markdown="span">**Workshop Dinner**19:00<br/>[Ferrucci Wine Bar](http://ferrucci-winebar.de) ([Menu](../menu_dinner.html))</td>
 <td markdown="span"></td>
 </tr>
 </tbody>
