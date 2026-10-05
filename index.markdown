@@ -40,8 +40,7 @@ The **reception** on Tuesday starts at 18:00 will take place at
 **Address**<br/>
 Bessunger Straße 33 <br/>
 64285 Darmstadt<br/>
-[Map](https://osm.org/go/0DxcawQgt)<br/>
-
+[Map](https://osm.org/go/0DxcawR2W?m=)<br/>
 
 # Programme
 
