@@ -31,16 +31,27 @@ TU Darmstadt<br>
 Room 18 and 96 <br>
 [Building S3|20](https://www.tu-darmstadt.de/media/dezernat_iv/lageplnews0809/S3~1.png)
 
+# Reception
+
+The **reception** on Tuesday starts at 18:00 will take place at 
+
+[Vinoteca Carroccia](https://www.facebook.com/people/Vinoteca-Carroccia/100090145849713/)
+
+**Address**<br/>
+Bessunger Straße 33 <br/>
+64285 Darmstadt<br/>
+[Map](https://osm.org/go/0DxcawQgt)<br/>
+
+
+# Programme
+
+The **preliminary** schedule is available [here](./programme)
 
 # Registration 
 
 Please register your **attendance** [here](https://owncloud.se.informatik.tu-darmstadt.de/owncloud/index.php/apps/forms/s/QKtjcFJgGAidGWzCr3e3nMrj) until **31. July 2026**
 
 Please register your **talk** [here](https://owncloud.se.informatik.tu-darmstadt.de/owncloud/index.php/apps/forms/s/HpRd4EAyCnYixALnyg9SNo6i) until **31. August 2026**
-
-# Programme
-
-The **preliminary** schedule is available [here](./programme)
 
 # Contact
 If there are any inquiries or questions, feel free to contact the organizers:
