@@ -166,14 +166,14 @@ Below, you find the preliminary schedule. Talks and times may still change.
 <tr>
 <td class="time" markdown="span">16:00 - 16:45</td>
 <td markdown="span"></td>
-<td class="talk" markdown="span">**Tobias Wrigstad**Protocols and Behavior-oriented Concurrency</td>
-<td class="talk" markdown="span">**Ludovic Henrio**Tail Modulo Async-Await</td>
+<td class="talk" markdown="span">**Ragnar Mogk**Protocols and Algebraic Replicated DT</td>
+<td class="talk" markdown="span">**Gabriel Radanne**Tail Modulo Async-Await</td>
 <td markdown="span"></td>
 </tr>
 <tr>
 <td class="time" markdown="span">16:45 - 17:30</td>
 <td markdown="span"></td>
-<td class="talk" markdown="span">**Ragnar Mogk**Protocols and Algebraic Replicated DT</td>
+<td class="talk" markdown="span"></td>
 <td class="talk" markdown="span">**Daniel Drodt**A Complete, Formal Semantics for Async Rust</td>
 <td markdown="span"></td>
 </tr>
