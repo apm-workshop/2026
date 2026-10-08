@@ -111,14 +111,14 @@ Below, you find the preliminary schedule. Talks and times may still change.
 <td class="time" markdown="span">11:15 - 12:00</td>
 <td markdown="span"></td>
 <td class="talk" markdown="span">**Frank de Boer**Deductive Verification for Actors</td>
-<td class="talk" markdown="span">**Michele Loreti**Qualitative and Quantitative Monitoring of Event Systems</td>
+<td class="talk" markdown="span">**Cosimo Laneve**The Stipula Experience (Part 1)</td>
 <td class="talk" markdown="span">**Einar B. Johnsen**TBA</td>
 </tr>
 <tr>
 <td class="time" markdown="span">12:00 - 12:45</td>
 <td markdown="span"></td>
 <td class="talk" markdown="span">**Niklas Heidler**Characterising and Verifying Active Object Programs with Trace Logic</td>
-<td class="talk" markdown="span">**Cosimo Laneve**The Stipula Experience</td>
+<td class="talk" markdown="span">**Cosimo Laneve**The Stipula Experience (Part 2)</td>
 <td class="talk" markdown="span">**Violet Ka I Pun**Type-based information flow analysis for actors</td>
 </tr>
 <tr class="pause">
