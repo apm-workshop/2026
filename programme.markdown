@@ -112,7 +112,7 @@ Below, you find the preliminary schedule. Talks and times may still change.
 <td markdown="span"></td>
 <td class="talk" markdown="span">**Frank de Boer**Deductive Verification for Actors</td>
 <td class="talk" markdown="span">**Cosimo Laneve**The Stipula Experience (Part 1)</td>
-<td class="talk" markdown="span">**Einar B. Johnsen**TBA</td>
+<td class="talk" markdown="span">**Einar B. Johnsen**From Fjord Questions to Runtime Monitors</td>
 </tr>
 <tr>
 <td class="time" markdown="span">12:00 - 12:45</td>
