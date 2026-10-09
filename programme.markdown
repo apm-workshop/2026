@@ -70,8 +70,8 @@ Below, you find the preliminary schedule. Talks and times may still change.
 <div class="schedule-wrap" markdown="0">
 <table class="schedule">
 <colgroup>
-<col width="14%" />
-<col width="14%" />
+<col width="16%" />
+<col width="13%" />
 <col width="24%" />
 <col width="24%" />
 <col width="24%" />
